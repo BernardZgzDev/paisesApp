@@ -1,0 +1,9 @@
+@media(max-width: 576px) {
+    .main-content {
+        margin-top: 24px;
+    }
+}
+
+ul > li:hover {
+    cursor: pointer;
+}
